@@ -1,2 +1,2 @@
 # logback
-spring logback practice
+spring logback
